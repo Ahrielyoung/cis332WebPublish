@@ -1,0 +1,42 @@
+body {
+  background: #fff7ef;
+}
+
+header {
+  background: #fff0de;
+}
+
+.links li a:hover {
+  color: rgb(243, 133, 0);
+}
+
+.navbar .toggle_btn:hover { /*when hover over toggle button*/
+  color: rgb(243, 133, 0); /*change color to black*/
+}
+
+.action_btn { /*action button container*/
+  background-color:  rgb(243, 133, 0);/*background color of action button*/
+  color: white; /*fff*/ /*color of action button*/
+}
+
+.action_btn:hover { /*when hover over action button*/
+  color: #fff; /*change color to white*/
+}
+
+nav{
+  box-shadow: 3px 3px 5px rgb(243, 133, 0);
+}
+
+nav a:hover {
+  background-color: #f0f0f0;
+}
+
+.chatbox textarea{
+  border-color: #bfbfbf;
+  background:#dbdbdb4f;
+} 
+
+/*------------JavaScript--------------*/
+textarea:is(:focus, :valid){
+  border-color: rgb(243, 133, 0);
+}
