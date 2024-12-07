@@ -31,7 +31,7 @@ var data = {
     title: ["Please select a language"],
     options: ['HTML', 'Python', 'Java'],
     url: {
-      link: ["https://workik.com/ai-code-generator"]
+      link: ["https://workik.com/ai-code-generator","https://workik.com/ai-code-generator","https://workik.com/ai-code-generator"]
     }
   },
   technews: {
