@@ -48,7 +48,7 @@ var data = {
           link:["https://www.youtube.com","https://www.netflix.com/browse","https://www.amazon.com","https://www.hulu.com/hub/home"]
       }
     }
-  }
+  };
 
 
 
